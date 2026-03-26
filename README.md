@@ -120,4 +120,5 @@ ClaimTrackr uses a **multi-stage Dockerfile** so dependencies are installed in a
 ## Author
 
 **Shivam Modi**
+
 Software Developer
